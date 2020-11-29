@@ -2,7 +2,7 @@ package Characters;
 
 import Weapons.Weapon;
 
-public class BaseCharacter implements Character{
+public abstract class BaseCharacter implements Character{
     int health;
     public Weapon weapon;
 

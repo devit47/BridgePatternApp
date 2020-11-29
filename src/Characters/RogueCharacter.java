@@ -21,5 +21,4 @@ public class RogueCharacter extends BaseCharacter{
     public void setParryAbility(int parryAbility){
         this.parryAbility = parryAbility;
     }
-
 }
